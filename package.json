@@ -1,0 +1,26 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "My first js project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IhorFarforovskyi/hexlet-js.git"
+  },
+  "keywords": [
+    "js",
+    "hexlet",
+    "node",
+    "json"
+  ],
+  "author": "Ihor Farforovskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IhorFarforovskyi/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/IhorFarforovskyi/hexlet-js#readme"
+}
